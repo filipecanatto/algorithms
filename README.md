@@ -1,1 +1,1 @@
-# algorithms
+This folder contains educational algorithms.
