@@ -5,6 +5,11 @@ FATEC - 01/2014.
 Faca um programa que liste todas as possiveis permutacoes de um conjunto de letras "i" informado pelo usuario.
 Essas combinacoes devem ter comprimento "g", esse dado tambem deve ser informado pelo usuario.
 
+Autor:
+Wilton Filipe Canatto
+filipecanatto@gmail.com
+filipecanattodev.com.br
+
 **/
 
 #include <stdio.h>
